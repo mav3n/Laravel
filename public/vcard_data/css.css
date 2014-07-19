@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Neuton Extralight'), local('Neuton-ExtraLight'), url(http://themes.googleusercontent.com/static/fonts/neuton/v6/Tjl7b0u2P9xaFOPIyj3u0j8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Neuton Light'), local('Neuton-Light'), url(http://themes.googleusercontent.com/static/fonts/neuton/v6/Q7Fajoru_szZ8E8kkCnTxj8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Neuton Regular'), local('Neuton-Regular'), url(http://themes.googleusercontent.com/static/fonts/neuton/v6/FWmpGWvJ4R8gbr0i3io5KQ.woff) format('woff');
+}
